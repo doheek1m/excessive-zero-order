@@ -232,4 +232,4 @@ compared within, not across, the two blocks.
 - The differences in LPD among BM 1, Model 2 and Model 4 are small
   (under one nat over 253 test policies); the MSE gap is the more substantial
   comparison.
-- The fixed-effect benchmarks are clearly worse on both MSE and MAE.
+- The fixed-effect benchmarks are clearly worse on both MSE and MAE..
